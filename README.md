@@ -83,24 +83,3 @@ The dashboard tells the story of a fictional **Superstore**, revealing:
    Use built-in filters to dive into specific customer names or months
 
 ---
-
-## 👤 About Me
-
-**Vedika Sankhe**  
-🎓 Aspiring Data Analyst | 📊 Tableau & Power BI Enthusiast | 💡 Turning Numbers into Narratives  
-
-🔗 [LinkedIn](https://www.linkedin.com/in/vedika-sankhe-707700317/)  
-📁 [GitHub Portfolio](https://github.com/VedikaSankhe)
-
----
-
-## 💬 Feedback & Contributions
-
-If you have ideas to improve this dashboard, feel free to open an issue or submit a pull request.  
-Collaboration is welcome!
-
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
